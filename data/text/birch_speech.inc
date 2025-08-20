@@ -45,9 +45,7 @@ gText_Birch_SoItsPlayer::
 
 gText_Birch_YourePlayer::
 	.string "Ah, i see!\p"
-	.string "You're {PLAYER}{KUN}, the traveler who's moving to \n"
-	.string "the Serkah Village.\l"
-	.string "I get it now!\p"
+	.string "You're {PLAYER}{KUN}, that is a nice name!\p"
 	.string "$"
 
 gText_Birch_AreYouReady::
